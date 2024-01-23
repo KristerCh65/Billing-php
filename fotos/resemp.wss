@@ -1,0 +1,413 @@
+<site sitename="New Site" templatepreview="" FullPath="C:\wamp\wamp\www\RESEMP.wss" version="3.0"><css/><page id="p53806079" name="index" pageindex="0"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="C:\Program Files\Web Page Maker\Templates\Personal\Personal002\images\bg00.jpg" bgpreview="C:\Program Files\Web Page Maker\Templates\Personal\Personal002\images\bg00.jpg" bgimagedata="" bgsound="" bgspreview="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0"><Component id="image6" zorder="0" type="3" filename="image8666461" left="53" top="408" width="677" height="60" src="C:\Program Files\Web Page Maker\Templates\Personal\Personal002\images\bottom102.jpg" previewfile="C:\Program Files\Web Page Maker\Templates\Personal\Personal002\images\bottom102.jpg" originwidth="677" originheight="60" changefilename="0" alt="" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3"/><Component type="3" id="image1" zorder="1" filename="image2263812" left="19" top="6" width="768" height="604" originwidth="300" originheight="240" src="C:\wamp\wamp\www\355_example3.jpg" resample="1" previewfile="C:\wamp\wamp\www\355_example3.jpg"/><Component type="2" id="text1" zorder="2" filename="text2285000" left="289" top="28" width="223" height="38" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:27px" color="#FFFFFF" face="Times New Roman"&gt;&lt;U&gt;Registrar Empresa&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws20" color="#FFFFFF" face="Times New Roman"&gt;&lt;U&gt;Registrar Empresa&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoVAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIUBVN0eWxlCwtmc1Vu
+ZGVybGluZQAFQ29sb3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHls
+ZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJ
+QWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQg
+QWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Q
+cm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZw
+YW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMg
+MSAwIDAgMCAwDQpSZWdpc3RyYXIgRW1wcmVzYQ0K
+</rvf></Component><Component type="2" id="text2" zorder="3" filename="text2377375" left="145" top="28" width="-48" height="85" html="Double click to edit text"/><Component type="2" id="text4" zorder="4" filename="text2384593" left="95" top="71" width="63" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Código:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Código:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KQ/NkaWdvOg0K
+</rvf></Component><Component type="2" id="text5" zorder="5" filename="text2441609" left="86" top="97" width="72" height="27" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Empresa:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Empresa:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRW1wcmVzYToN
+Cg==
+</rvf></Component><Component type="2" id="text6" zorder="6" filename="text2473500" left="33" top="123" width="125" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Empr. Contable:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Empr. Contable:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRW1wci4gQ29u
+dGFibGU6DQo=
+</rvf></Component><Component type="2" id="text7" zorder="7" filename="text2523750" left="79" top="148" width="79" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Dirección:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Dirección:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRGlyZWNjafNu
+Og0K
+</rvf></Component><Component type="2" id="text8" zorder="8" filename="text2597796" left="491" top="122" width="74" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Telefono:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Telefono:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVGVsZWZvbm86
+DQo=
+</rvf></Component><Component type="2" id="text9" zorder="9" filename="text2615968" left="397" top="72" width="47" height="22" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;RUC:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;RUC:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KUlVDOg0K
+</rvf></Component><Component type="2" id="text10" zorder="10" filename="text2656500" left="37" top="174" width="120" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Urb. Localidad:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Urb. Localidad:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVXJiLiBMb2Nh
+bGlkYWQ6DQo=
+</rvf></Component><Component type="2" id="text11" zorder="11" filename="text2707093" left="455" top="148" width="110" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Departamento:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Departamento:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRGVwYXJ0YW1l
+bnRvOg0K
+</rvf></Component><Component type="2" id="text13" zorder="12" filename="text2875515" left="504" top="198" width="61" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Distrito:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Distrito:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRGlzdHJpdG86
+DQo=
+</rvf></Component><Component type="2" id="text14" zorder="13" filename="text2921000" left="27" top="225" width="130" height="27" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Cuenta Bancaria:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Cuenta Bancaria:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KQ3VlbnRhIEJh
+bmNhcmlhOg0K
+</rvf></Component><Component type="2" id="text15" zorder="14" filename="text2948812" left="443" top="223" width="122" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Tipo de Cuenta:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Tipo de Cuenta:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVGlwbyBkZSBD
+dWVudGE6DQo=
+</rvf></Component><Component type="2" id="text16" zorder="15" filename="text2991218" left="41" top="252" width="116" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Ins. Financiera:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Ins. Financiera:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KSW5zLiBGaW5h
+bmNpZXJhOg0K
+</rvf></Component><Component type="2" id="text17" zorder="16" filename="text3034687" left="506" top="248" width="58" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Estado:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Estado:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRXN0YWRvOg0K
+</rvf></Component><Component type="2" id="text18" zorder="17" filename="text3082812" left="75" top="276" width="82" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Directorio:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Directorio:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRGlyZWN0b3Jp
+bzoNCg==
+</rvf></Component><Component type="14" id="form1" zorder="19" filename="form3225390" formtype="1" formname="form1" width="104" height="31" left="51" top="23"/><Component type="14" id="formtext1" zorder="20" filename="form3237484" formtype="3" formname="formtext1" parentform="form1" parentformname="form1" width="200" height="25" left="155" top="69"/><Component type="14" id="formtext2" zorder="21" filename="form3254609" formtype="3" formname="formtext2" parentform="form1" parentformname="form1" width="200" height="25" left="155" top="169"/><Component type="14" id="formtext3" zorder="22" filename="form3254921" formtype="3" formname="formtext3" parentform="form1" parentformname="form1" width="284" height="25" left="155" top="94"/><Component type="14" id="formtext4" zorder="23" filename="form3255234" formtype="3" formname="formtext4" parentform="form1" parentformname="form1" width="284" height="25" left="155" top="144"/><Component type="14" id="formtext5" zorder="24" filename="form3255562" formtype="3" formname="formtext5" parentform="form1" parentformname="form1" width="200" height="25" left="155" top="269"/><Component type="14" id="formtext6" zorder="25" filename="form3255906" formtype="3" formname="formtext6" parentform="form1" parentformname="form1" width="200" height="25" left="155" top="219"/><Component type="14" id="formtext7" zorder="26" filename="form3256234" formtype="3" formname="formtext7" parentform="form1" parentformname="form1" width="200" height="25" left="155" top="294"/><Component type="14" id="formtext8" zorder="27" filename="form3256578" formtype="3" formname="formtext8" parentform="form1" parentformname="form1" width="219" height="25" left="545" top="400"/><Component type="14" id="formtext9" zorder="28" filename="form3256921" formtype="3" formname="formtext9" parentform="form1" parentformname="form1" width="324" height="25" left="440" top="293" formvalue="" maxlength="0" inputtype="2"/><Component type="14" id="formtext10" zorder="29" filename="form3257265" formtype="3" formname="formtext10" parentform="form1" parentformname="form1" width="200" height="25" left="565" top="117"/><Component type="14" id="formtext11" zorder="30" filename="form3257625" formtype="3" formname="formtext11" parentform="form1" parentformname="form1" width="122" height="25" left="444" top="69"/><Component type="14" id="formselect1" zorder="31" filename="form23918578" formtype="9" formname="formselect1" parentform="form1" parentformname="form1" width="335" height="25" left="155" top="119"/><Component type="14" id="formselect3" zorder="32" filename="form24019781" formtype="9" formname="formselect3" parentform="form1" parentformname="form1" width="286" height="25" left="155" top="244"/><Component type="14" id="formselect4" zorder="33" filename="form24340359" formtype="9" formname="formselect4" parentform="form1" parentformname="form1" width="200" height="25" left="564" top="243"/><Component type="14" id="formselect5" zorder="34" filename="form24352968" formtype="9" formname="formselect5" parentform="form1" parentformname="form1" width="200" height="25" left="565" top="142"/><Component type="14" id="formselect6" zorder="35" filename="form24462453" formtype="9" formname="formselect6" parentform="form1" parentformname="form1" width="200" height="25" left="564" top="193"/><Component type="2" id="text20" zorder="36" filename="text24756125" left="436" top="273" width="328" height="23" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;&lt;U&gt;Ubicación de los Reportesde esta Empresa:&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;&lt;U&gt;Ubicación de los Reportesde esta Empresa:&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoVAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwtmc1Vu
+ZGVybGluZQAFQ29sb3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHls
+ZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJ
+QWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQg
+QWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Q
+cm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZw
+YW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMg
+MSAwIDAgMCAwDQpVYmljYWNp824gZGUgbG9zIFJlcG9ydGVzZGUgZXN0YSBFbXByZXNhOg0K
+</rvf></Component><Component type="4" id="shape1" zorder="37" filename="shape24935875" width="130" height="90" previewfile="C:\Users\USUARIO\AppData\Local\Temp\Web Page Maker\docO730G\shape5EFM9.gif" left="353" top="147" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0"/><Component type="2" id="text19" zorder="18" filename="text3117750" left="65" top="302" width="91" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Contraseña:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Contraseña:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KQ29udHJhc2Xx
+YToNCg==
+</rvf></Component><Component type="2" id="text21" zorder="38" filename="text24982546" left="38" top="355" width="198" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;&lt;B&gt;Representante Legal:&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;&lt;B&gt;Representante Legal:&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoQAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwZmc0Jv
+bGQABUNvbG9yBwdjbFdoaXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1l
+BgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdu
+bWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWdu
+CUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVj
+dCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9O
+b3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAw
+IDAgMA0KUmVwcmVzZW50YW50ZSBMZWdhbDoNCg==
+</rvf></Component><Component type="14" id="formtext12" zorder="39" filename="form25039078" formtype="3" formname="formtext12" parentform="form1" parentformname="form1" width="316" height="25" left="38" top="375"/><Component type="2" id="text22" zorder="40" filename="text25064375" left="38" top="400" width="107" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Tipo de Doc.:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Tipo de Doc.:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVGlwbyBkZSBE
+b2MuOg0K
+</rvf></Component><Component type="2" id="text23" zorder="41" filename="text25121656" left="55" top="425" width="90" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Nº de Doc.:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Nº de Doc.:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KTrogZGUgRG9j
+LjoNCg==
+</rvf></Component><Component type="14" id="formselect7" zorder="42" filename="form25213765" formtype="9" formname="formselect7" parentform="form1" parentformname="form1" width="210" height="25" left="144" top="400"/><Component type="14" id="formselect8" zorder="43" filename="form25220812" formtype="9" formname="formselect8" parentform="form1" parentformname="form1" width="210" height="25" left="144" top="424"/><Component type="2" id="text24" zorder="44" filename="text25269046" left="454" top="355" width="110" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;&lt;B&gt;Responsable:&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;&lt;B&gt;Responsable:&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoQAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwZmc0Jv
+bGQABUNvbG9yBwdjbFdoaXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1l
+BgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdu
+bWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWdu
+CUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVj
+dCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9O
+b3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAw
+IDAgMA0KUmVzcG9uc2FibGU6DQo=
+</rvf></Component><Component type="14" id="formtext13" zorder="45" filename="form25392640" formtype="3" formname="formtext13" parentform="form1" parentformname="form1" width="316" height="25" left="448" top="375"/><Component type="2" id="text25" zorder="46" filename="text25431296" left="448" top="402" width="98" height="25" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Area/Depto.:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Area/Depto.:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KQXJlYS9EZXB0
+by46DQo=
+</rvf></Component><Component type="2" id="text27" zorder="47" filename="text25526828" left="472" top="426" width="74" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FFFFFF" face="Times New Roman"&gt;Telefono:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FFFFFF" face="Times New Roman"&gt;Telefono:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBg5NUyBTaGVsbCBEbGcgMgdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVGVsZWZvbm86
+DQo=
+</rvf></Component><Component type="14" id="formtext14" zorder="48" filename="form25624453" formtype="3" formname="formtext14" parentform="form1" parentformname="form1" width="218" height="25" left="546" top="426"/><Component type="14" id="formtext15" zorder="49" filename="form25633312" formtype="3" formname="formtext15" parentform="form1" parentformname="form1" width="200" height="25" left="564" top="217"/><Component type="14" id="formbutton1" zorder="50" filename="form26244406" formtype="2" formname="guarda" parentform="form1" parentformname="form1" buttontype="1" width="72" height="25" left="341" top="478" formvalue="Guardar"/><Component type="14" id="formbutton2" zorder="51" filename="form26284078" formtype="2" formname="cancela" parentform="form1" parentformname="form1" buttontype="1" width="78" height="25" left="416" top="478" formvalue="Cancelar"/><Component type="14" id="formbutton3" zorder="52" filename="form26329984" formtype="2" formname="cc" parentform="form1" parentformname="form1" buttontype="1" width="179" height="25" left="569" top="69" formvalue="Cambiar Contraseña"/></body></page>
+	<components/></site>
